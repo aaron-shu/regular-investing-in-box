@@ -1,5 +1,4 @@
 <h1 style="text-align: center;">定投改变命运</h1>
-<hr />
 <p style="text-align: center;"> <strong>李笑来（著）</strong> &copy;2019</p>
 <div style="text-align: center;">
     <img src="../images/coverimage.gif" />
@@ -1651,7 +1650,7 @@ iOS 国内用户下载的 [Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-
 
 -----
 
-
+[下载本书 PDF 版本](https://onregularinvesting.com/pdf/on-regularinvesting-cn.pdf)
 
 本书的版权协议为 [CC-BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)。
 
